@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_structstars" xml:lang="en-US">
+<title>stars Struct Reference</title>
+<indexterm><primary>stars</primary></indexterm>
+<simplesect>
+    <title>Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>int <link linkend="_structstars_1a5713aefc91a3c771a5b15fdd19566eae">r</link></para>
+</listitem>
+            <listitem><para>int <link linkend="_structstars_1ab683e5e4c14435f0bf1f266188256206">g</link></para>
+</listitem>
+            <listitem><para>int <link linkend="_structstars_1a44f0bcd0f38c01e2e10aa05cc14ae8ea">b</link></para>
+</listitem>
+            <listitem><para>GLfloat <link linkend="_structstars_1aa45eb95b22f55d7f46f150c0ce78754e">dist</link></para>
+</listitem>
+            <listitem><para>GLfloat <link linkend="_structstars_1a717ebd4aad22d358e8279806ad539ce9">angle</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_structstars_1a717ebd4aad22d358e8279806ad539ce9"/>    <section>
+    <title>angle</title>
+<indexterm><primary>angle</primary><secondary>stars</secondary></indexterm>
+<indexterm><primary>stars</primary><secondary>angle</secondary></indexterm>
+<para><computeroutput>GLfloat stars::angle</computeroutput></para>    </section><anchor xml:id="_structstars_1a44f0bcd0f38c01e2e10aa05cc14ae8ea"/>    <section>
+    <title>b</title>
+<indexterm><primary>b</primary><secondary>stars</secondary></indexterm>
+<indexterm><primary>stars</primary><secondary>b</secondary></indexterm>
+<para><computeroutput>int stars::b</computeroutput></para>    </section><anchor xml:id="_structstars_1aa45eb95b22f55d7f46f150c0ce78754e"/>    <section>
+    <title>dist</title>
+<indexterm><primary>dist</primary><secondary>stars</secondary></indexterm>
+<indexterm><primary>stars</primary><secondary>dist</secondary></indexterm>
+<para><computeroutput>GLfloat stars::dist</computeroutput></para>    </section><anchor xml:id="_structstars_1ab683e5e4c14435f0bf1f266188256206"/>    <section>
+    <title>g</title>
+<indexterm><primary>g</primary><secondary>stars</secondary></indexterm>
+<indexterm><primary>stars</primary><secondary>g</secondary></indexterm>
+<para><computeroutput>int stars::g</computeroutput></para>    </section><anchor xml:id="_structstars_1a5713aefc91a3c771a5b15fdd19566eae"/>    <section>
+    <title>r</title>
+<indexterm><primary>r</primary><secondary>stars</secondary></indexterm>
+<indexterm><primary>stars</primary><secondary>r</secondary></indexterm>
+<para><computeroutput>int stars::r</computeroutput></para></section>
+<para>
+The documentation for this struct was generated from the following file:</para>
+/home/thierry/Sources/Opengl/Lesson09/src/<link linkend="_lesson09_8c">lesson09.c</link></section>
+</section>
